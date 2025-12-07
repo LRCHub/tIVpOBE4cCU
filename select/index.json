@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "わたしに花束",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-07T15:34:32.112275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "わたしに花束",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_わたしに花束_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わたしに花束",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_わたしに花束_Ado.txt"
+    }
+  ]
+}
